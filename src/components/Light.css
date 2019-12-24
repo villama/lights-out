@@ -1,0 +1,11 @@
+.Light {
+  background-color: #263268;
+  height: 100px;
+  width: 100px;
+  border-radius: 1px;
+  transition: background-color 0.7s ease;
+}
+
+.Light-lit {
+  background-color: #00bcd4;
+}
